@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Netflix Clone
+## Check it out!
+
+So here is my rendering edition of netflix clone. Follow along with my guy fireclint on GitHub.
+<!-- Will attach link to profile here -->
+This project utilizes react, TailwindCSS, FireBase, axios, and 
+<!-- add rest of technologies here maybe in a list -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
