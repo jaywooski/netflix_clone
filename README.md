@@ -1,10 +1,15 @@
 # Netflix Clone
+
+
+Live deployment [here](https://netflix-clone-61781.web.app/)
 ## Check it out!
 
-So here is my rendering edition of netflix clone. Follow along with my guy fireclint on GitHub.
-<!-- Will attach link to profile here -->
-This project utilizes react, TailwindCSS, FireBase, axios, and 
-<!-- add rest of technologies here maybe in a list -->
+So here is my rendering edition of netflix clone. 
+
+This project utilizes react, TailwindCSS, FireBase, axios, and reactIcons
+I'd like to add functionality of a trailer playing in a background and a few other things later down the road that I'd like to keep a secret.
+
+Shouts out to my guy Clint on YouTube [@Code Commerce](https://www.youtube.com/@codecommerce). Definitely will be adding more feats to this one here.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This is deployed on firebase.
 
 ### `npm run build` fails to minify
 
