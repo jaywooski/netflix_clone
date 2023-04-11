@@ -1,7 +1,7 @@
 # Netflix Clone
 
 
-Live deployment [here](https://netflix-clone-61781.web.app/)
+Live deployment [here.](https://netflix-clone-61781.web.app/)
 ## Check it out!
 
 So here is my rendering edition of netflix clone. 
